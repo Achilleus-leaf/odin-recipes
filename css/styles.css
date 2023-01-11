@@ -1,0 +1,23 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2,
+h3{
+    color:#b8860b;
+}
+p {
+    font-style: italic;
+}
+ol li {
+    color:#1f7558;
+    font-weight: bold;
+}
+ol li p {
+    color:#000000;
+    font-weight: normal;
+    font-style: normal;
+}
+img {
+    width: 300px;
+    height: auto;
+}
